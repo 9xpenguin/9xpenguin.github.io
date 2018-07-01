@@ -10,8 +10,8 @@ body {
 .content {
   background-color: #FFFFFF;
   font-size: 15px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 0px;
   margin-bottom: 0px;
   display: inline;
